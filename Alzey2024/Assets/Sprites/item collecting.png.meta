@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8a8a3f3b4bf63014a839a605799cf901
+guid: 6603041085fbbed408959a47f9e3c8dd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,11 +97,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: plattform_0
+      name: item collecting_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 288
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -111,18 +111,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b17d64fddb3296244a04afb32af7b111
-      internalID: 1215968356
+      spriteID: af461ba5caf430d4f8bdfb5d5fbb5aea
+      internalID: -1431577344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_1
+      name: item collecting_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c672b9e656d88e40ac836316365e282
+      internalID: 625798842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item collecting_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 288
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -132,18 +153,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca2bc67d431c6cc4384f9c2657bb271a
-      internalID: -793531494
+      spriteID: 9d2a57b98bebe514c8a4d1d5d587d730
+      internalID: 681423052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_2
+      name: item collecting_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aace38a7067ae4e91e113d05457e17
+      internalID: -1644300791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item collecting_4
       rect:
         serializedVersion: 2
         x: 128
-        y: 288
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -153,18 +195,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30d77f5acaa53d84088ddb75bd782a04
-      internalID: -289438184
+      spriteID: 5be15503fb658734995675835cc20283
+      internalID: -177345498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_3
+      name: item collecting_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 224
+        x: 160
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -174,18 +216,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fe831d834a7a5a4bb1b325d1956e65b
-      internalID: 37747746
+      spriteID: b02ae5e5469a9e94999264166dbe8d33
+      internalID: -1084645592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_4
+      name: item collecting_6
       rect:
         serializedVersion: 2
-        x: 64
-        y: 224
+        x: 192
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -195,18 +237,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45603a5ee7ff4544e9ad45985fe3e9de
-      internalID: -1830524023
+      spriteID: 9c78e49606177b543a018a91e8a3e5cc
+      internalID: 795639492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_5
+      name: item collecting_7
       rect:
         serializedVersion: 2
-        x: 128
-        y: 224
+        x: 224
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -216,18 +258,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e42e07df3b29284fbacb631d9fab399
-      internalID: -1314875124
+      spriteID: 364d94bae07583243b9615d1320cdb19
+      internalID: 1188570669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_6
+      name: item collecting_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 160
+        x: 256
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -237,18 +279,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d499e59c23acd7498e1a62958dcf9bf
-      internalID: -748545044
+      spriteID: 13381a47c13060141860d41139d7eb87
+      internalID: 1688750063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_7
+      name: item collecting_9
       rect:
         serializedVersion: 2
-        x: 64
-        y: 160
+        x: 288
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -258,18 +300,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c40dbd2827108db4a9ffe17bf337a4f6
-      internalID: 2133354723
+      spriteID: b9431992273880749a7d7d7e770084d0
+      internalID: 184749975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_8
+      name: item collecting_10
       rect:
         serializedVersion: 2
-        x: 128
-        y: 160
+        x: 320
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -279,18 +321,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77eb9a14aa008b0438fe9c8bb89f9b70
-      internalID: 696701533
+      spriteID: 84f0c171cd3d18f459f0f4e0fc6b5de7
+      internalID: 1727669490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_9
+      name: item collecting_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
+        x: 352
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -300,18 +342,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eeb63bb234cf06f4ba161852a4b29857
-      internalID: -1594730376
+      spriteID: 3f5071dc2415df0408570f18a484ec57
+      internalID: -322356585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_10
+      name: item collecting_12
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
+        x: 384
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -321,18 +363,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7e8ac0bca5c6b34d8728db29b76d218
-      internalID: 731012282
+      spriteID: 6aa945d921d9de145992f9ec26e606a6
+      internalID: 267881959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_11
+      name: item collecting_13
       rect:
         serializedVersion: 2
-        x: 128
-        y: 96
+        x: 416
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -342,18 +384,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17ab7dedf36803e49be3159e649c886f
-      internalID: -613059199
+      spriteID: 37c1e50d7fad38044854ebf924341954
+      internalID: -1481682922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_12
+      name: item collecting_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
+        x: 448
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -363,18 +405,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89b1d62927618c447a650d4574975609
-      internalID: 1546912614
+      spriteID: aaf4d5ac8cab93041b28979009732b4a
+      internalID: -534719833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_13
+      name: item collecting_15
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
+        x: 480
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -384,18 +426,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d74eab5ecf24d724b9eb8258fc6760e6
-      internalID: 777741181
+      spriteID: 5ad391c6e8c5d714cb2ef09e7965b5b6
+      internalID: 1023542788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plattform_14
+      name: item collecting_16
       rect:
         serializedVersion: 2
-        x: 128
-        y: 32
+        x: 512
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -405,8 +447,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0fd686a7a9e2ab4cbe42b626bd83cc9
-      internalID: 2127470289
+      spriteID: e836e9506a7432c40aeeb3330e38f11a
+      internalID: 817508048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item collecting_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8bb6a9223644c4094123af49ad39a9
+      internalID: -401139846
       vertices: []
       indices: 
       edges: []
@@ -422,21 +485,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      plattform_0: 1215968356
-      plattform_1: -793531494
-      plattform_10: 731012282
-      plattform_11: -613059199
-      plattform_12: 1546912614
-      plattform_13: 777741181
-      plattform_14: 2127470289
-      plattform_2: -289438184
-      plattform_3: 37747746
-      plattform_4: -1830524023
-      plattform_5: -1314875124
-      plattform_6: -748545044
-      plattform_7: 2133354723
-      plattform_8: 696701533
-      plattform_9: -1594730376
+      item collecting_0: -1431577344
+      item collecting_1: 625798842
+      item collecting_10: 1727669490
+      item collecting_11: -322356585
+      item collecting_12: 267881959
+      item collecting_13: -1481682922
+      item collecting_14: -534719833
+      item collecting_15: 1023542788
+      item collecting_16: 817508048
+      item collecting_17: -401139846
+      item collecting_2: 681423052
+      item collecting_3: -1644300791
+      item collecting_4: -177345498
+      item collecting_5: -1084645592
+      item collecting_6: 795639492
+      item collecting_7: 1188570669
+      item collecting_8: 1688750063
+      item collecting_9: 184749975
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
